@@ -24,13 +24,26 @@ If you find a mistake, please point out :pray:
 * 2019/8 :decide to major in Systems Innovation,Faculty of Engineering, University of Tokyo
 
 # Skill
-* FrondEnd :React, Next.js, TypeScript, Redux, Vue, Sass, Rust
-* BackEnd :PHP, Ruby on Rails, Node.js
+* FrondEnd :React, Next.js, TypeScript, Redux, Vue, Sass
+* BackEnd :PHP, Ruby on Rails, Node.js, Rust
 
-普段はよくTypescript x React書きます.
+普段はよくTypescript, React書きます.
 
-I usually write code with Typescript x React
+I usually write code with Typescript, React
 
-# Interest
-v8, deno, web-performance, WASM, TypeScript, WebGL, Web Packaging, web as a {media | app | game},JavaScript,Network
-いろいろ書いていますがwebとJavaScriptが好きです。
+# Interest & Love
+Refer this When talking to me or inviting me to eat.
+僕をご飯に誘うときや話す時に参考にどうぞ :two_hearts:
+
+* Drinking :beer:
+* bath
+* reading(especially **坂口　安吾**, **太宰　治**)
+* Meat
+* sushi
+* Test Driven Development
+* OSS
+* type safe programing
+* CDN
+* JavaScript Runtime
+* Game on web
+* Lamen
