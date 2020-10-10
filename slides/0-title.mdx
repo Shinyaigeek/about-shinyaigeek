@@ -29,12 +29,14 @@ import { Block } from "../Block";
 # Interest
 
 - Web Performance
-  - of Media web. CDN/Band width in Network/Isomorphic SSR/Cache strategy
-  - of Application web. JavaScript Performance/DOM rendering Performance/Isomorphic SSR
+  - I/O Cost. CDN/Band width in Network/Isomorphic SSR/Cache strategy/bundle size
+  - Runtime Cost. JavaScript Performance/DOM rendering Performance/Isomorphic SSR
 - Improvement DX(Develper Experience)
+- Web Accesibility
 - System Theoritical Visualization, Simulation(eg Fluid mechanics, Self-Organizing model)
 - Visualize and Measure and Improvement Performance 
 - Web technology and ecosystem
+- Runtime Friendly JavaScript, V8's optimisation
 
 ---
 
@@ -49,7 +51,7 @@ import { Block } from "../Block";
   <div className="right">
     <Block
       content={
-        "GCP CloudRun/React/JSX(as template)/Sass/Node.js/webpack/TypeScript/Contentful/CloudFlare"
+        "GCP CloudRun/JSX(as template)/Node.js/webpack/TypeScript/CloudFlare"
       }
     />
     <Block content={"This System can make web page DYNAMICALLY"} />
@@ -59,6 +61,19 @@ import { Block } from "../Block";
     <img src="../lighthouse.png" />
   </div>
 </div>
+
+---
+# (WIP) lit JSX
+
+## This library lets devs write lit-html with JSX(fully typed).
+
+## This compile Pure Functional Component by JSX into html-base template-literal in lit-html.
+
+- \[DONE\] parse TypeScript/JavaScript to Abstract Syntax Tree
+- \[DONE\] justify some specific syntax in JSX(such as className, onClick, style, etc...)
+- \[DONE\] handle User Defined JSX Component as Function
+- \[WIP\] extend types of lit-html
+- \[WIP\] provide as babel-plugin
 
 ---
 
@@ -71,6 +86,7 @@ import { Block } from "../Block";
       content={"Now.sh/React/TypeScript/Sass/Workbox/Contentful/parcel"}
     />
     <Block content={"This System enables non-developper to update website easily"} />
+    <Block content={"prevent regression with light house CI"} />
     <Block
       content={"Illustrator's portfolio site is Gallery, so image occupies most of band width.I deel with this problem with CDN and lazy load"}
     />
@@ -99,7 +115,17 @@ This is the system to automate the step that devs keep tech article from feedly 
 This is running with node.js, now.sh.
 
 ---
-## And More...(jobs related to Nikkei)
+
+## Lightning Talk @サマーインターン前にツヨツヨになっちゃおうの会
+
+(for Web frontend beginers)
+
+![](../a.png)
+
+[Web Frontend Performance Tuning](https://speakerdeck.com/shinyaigeek/web-frontend-performance-tuning)
+
+---
+## And More...(jobs)
 <img src="../off.png" />
 
 ---
